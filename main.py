@@ -14,4 +14,4 @@ print('take 4: accept incoming change')
 
 print('take 5: accept incoming')
 
-print('test resolve conflit')
+print('test resolve conflict')
